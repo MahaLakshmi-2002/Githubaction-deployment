@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: devopshint
-          image: mahalakshmi2002/githubaction
+          image: mahalakshmi2002/mywebimg
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
